@@ -1,0 +1,1 @@
+# SQL_HOPE_CLASS
